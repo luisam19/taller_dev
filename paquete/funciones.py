@@ -1,5 +1,5 @@
 def sumar(a,b):
-
+    
     c = a + b
     return c
 def yorguin():
@@ -41,3 +41,6 @@ def vale():
 
 def taller():
    print('taller')
+
+def multiplicacion(a,b):
+    return a*b
